@@ -1,8 +1,8 @@
-DOMAIN,v2ex.com
-DOMAIN,aliyuncs.com
-DOMAIN,apple.com
-DOMAIN,icloud.com
 DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,yhd.com
 DOMAIN-SUFFIX,58cdn.com
