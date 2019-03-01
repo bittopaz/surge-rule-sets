@@ -1,5 +1,7 @@
 DOMAIN,v2ex.com
 DOMAIN,aliyuncs.com
+DOMAIN,apple.com
+DOMAIN,icloud.com
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,yhd.com
@@ -43,8 +45,6 @@ DOMAIN-SUFFIX,huofu.com
 DOMAIN-SUFFIX,5wei.com
 DOMAIN-SUFFIX,travelrely.com
 DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,icloud.com
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,baidu
