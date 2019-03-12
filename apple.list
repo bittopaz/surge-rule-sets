@@ -30,4 +30,5 @@ DOMAIN,streamingaudio.itunes.apple.com
 DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN-SUFFIX,lcdn-registration.apple.com
 DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-KEYWORD,icloud.com
 PROCESS-NAME,trustd
