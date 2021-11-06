@@ -31,5 +31,6 @@ DOMAIN-SUFFIX,lcdn-locator.apple.com
 DOMAIN-SUFFIX,lcdn-registration.apple.com
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,mail.me.com
+DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-KEYWORD,icloud.com
 PROCESS-NAME,trustd
